@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Comkot.iml" filepath="$PROJECT_DIR$/Comkot.iml" group="Comkot" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Comkot/app" />
-      <module fileurl="file://$PROJECT_DIR$/app/comkot/comkot.iml" filepath="$PROJECT_DIR$/app/comkot/comkot.iml" group="Comkot/app/comkot" />
+      <module fileurl="file://$PROJECT_DIR$/comkot/comkot.iml" filepath="$PROJECT_DIR$/comkot/comkot.iml" group="Comkot/comkot" />
     </modules>
   </component>
 </project>
