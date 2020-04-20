@@ -1,0 +1,3 @@
+rootProject.name='Comkot'
+include ':app'
+include ':app:comkot'
